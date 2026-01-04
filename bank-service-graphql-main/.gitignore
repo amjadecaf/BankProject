@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Log files
+*.log
+
+# Spring Boot
+spring-boot-starter-parent/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive data (DO NOT COMMIT)
+application-local.properties
+application-prod.properties
