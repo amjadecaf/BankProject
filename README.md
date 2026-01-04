@@ -195,8 +195,8 @@ ProjetArchitecture/
 
 ## 👥 Contributors
 
-- **Amjade** (GitHub: [@amjadecaf](https://github.com/amjadecaf))
-- **BATTAL Mohammed Othmane**
+- **CAF Amjade** (GitHub: [@amjadecaf](https://github.com/amjadecaf))
+- **BATTAL Mohammed Othmane** 
 
 ## 📄 License
 
@@ -204,4 +204,5 @@ Academic project - CAF Amjade & BATTAL Mohammed Othmane Bank
 
 ---
 
-**Built with ❤️ using Spring Boot & React**
+
+
