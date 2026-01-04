@@ -7,6 +7,8 @@
 
 Full-stack eBank application with Spring Boot backend and React frontend, featuring JWT authentication, role-based access control, and comprehensive banking operations.
 
+# You need to configure smtp with a mail in application.proprties
+
 ## 🚀 Features
 
 ### Backend (Spring Boot)
@@ -203,6 +205,7 @@ ProjetArchitecture/
 Academic project - CAF Amjade & BATTAL Mohammed Othmane Bank
 
 ---
+
 
 
 
